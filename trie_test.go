@@ -3,7 +3,8 @@ package trie_test
 import (
 	"strings"
 	"testing"
-	trie "tinygo-trie"
+
+	trie "github.com/jangala-dev/tinygo-trie"
 )
 
 func TestInitialization(t *testing.T) {
